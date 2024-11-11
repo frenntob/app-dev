@@ -1,8 +1,8 @@
 # Information
 ## Favorite Movie
-** Me Before You 
+**Me Before You 
 > Directed By Thea Sharrock
 
 ## Favorite Series
-** The End of the F***ing World
+**The End of the F***ing World
 > Jonathan Entwistle
