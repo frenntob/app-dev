@@ -2,6 +2,7 @@
 ## Favorite Movie
 **Me Before You**
 > Directed By Thea Sharrock
+![Me Before You]([image.jpg](https://tse1.mm.bing.net/th?id=OIP.smwi047hGfkpk9w8XiDiAgAAAA&pid=Api))
 
 ## Favorite Series
 **The End of the F...ing World**
