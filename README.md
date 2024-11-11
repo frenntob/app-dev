@@ -1,2 +1,8 @@
-# app-dev
-My first repository.
+# Information
+## Favorite Movie
+** Me Before You **
+> Directed By Thea Sharrock
+
+## Favorite Series
+** The End of the F***ing World **
+> Jonathan Entwistle
