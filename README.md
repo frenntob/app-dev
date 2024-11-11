@@ -5,4 +5,4 @@
 
 ## Favorite Series
 **The End of the F...ing World**
-> Jonathan Entwistle
+> Directed By Jonathan Entwistle
